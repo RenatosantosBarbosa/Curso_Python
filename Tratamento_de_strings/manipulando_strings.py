@@ -1,7 +1,7 @@
 # fruta = "Melancia"
 # print(fruta[2:])
 
-frase = "eu amo python!"
+frase = "eu amo python"
 
 # frase_tamanho = len(frase)
 # print(f"A frase {frase} tem {frase_tamanho} caracteres!")
