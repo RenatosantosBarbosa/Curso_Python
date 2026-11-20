@@ -42,8 +42,8 @@ Entre os principais conteúdos estão:
 - [x] Estruturas condicionais
 - [x] Strings
 - [x] Projeto inicial — Cadastro de alunos
-- [ ] Listas
-- [ ] Tuplas
+- [x] Listas
+- [x] Tuplas
 - [ ] Dicionários
 - [ ] Estruturas de repetição
 - [ ] Funções
